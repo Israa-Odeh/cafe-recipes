@@ -1,7 +1,9 @@
-Bite Bliss Vendor
+The list of vendors for the cafe:
+
+Bite Bliss Vendor - Most Important one
 Sweet Retreat Bakery Vendor
-The Rolling Dough
-Green Leaf Eats
+The Rolling Dough Vendor
+Green Leaf Eats Vendor
 Savory Roots
 Crave Creations
 Morning Star Bites
